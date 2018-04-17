@@ -1,0 +1,14 @@
+
+
+Car: Toyota Prius
+Horsepower: 171.363HP at 6000 rpm, from 150 pound feet of torque
+Quarter mile time is 14.0585 seconds at a final speed of 57.1898 kilometers per hour
+Zero to sixty time is 6.88299 seconds, with a power to weight ratio of 0.142803 horsepower per kilogram
+Maximum possible accleration: 4.068 with a maximum G-force of 0.414821 Gs.
+
+
+Car: Chrystler National
+Horsepower: 228.484HP at 6000 rpm, from 200 pound feet of torque
+Quarter mile time is 15.7178 seconds at a final speed of 51.1521 kilometers per hour
+Zero to sixty time is 8.60374 seconds, with a power to weight ratio of 0.114242 horsepower per kilogram
+Maximum possible accleration: 3.2544 with a maximum G-force of 0.331856 Gs.

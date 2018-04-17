@@ -1,0 +1,14 @@
+
+
+Car: 1 3
+Horsepower: 6.66413HP at 7000 rpm, from 5 pound feet of torque
+Quarter mile time is 4.44567 seconds at a final speed of 180.85 kilometers per hour
+Zero to sixty time is 0.688299 seconds, with a power to weight ratio of 1.66603 horsepower per kilogram
+Maximum possible accleration: 40.68 with a maximum G-force of 4.14821 Gs.
+
+
+Car: 4 5
+Horsepower: 7.99695HP at 7000 rpm, from 6 pound feet of torque
+Quarter mile time is 4.97041 seconds at a final speed of 161.757 kilometers per hour
+Zero to sixty time is 0.860374 seconds, with a power to weight ratio of 1.33283 horsepower per kilogram
+Maximum possible accleration: 32.544 with a maximum G-force of 3.31856 Gs.
